@@ -87,7 +87,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pushtell/react-bootstrap-date-picker-pp.git"
+    "url": "git+https://github.com/bluedragonwppl/react-bootstrap-date-picker-pp"
   },
   "scripts": {
     "build": "doctoc . --github --title '<h1>Table of Contents</h1>'; ./node_modules/babel-cli/bin/babel.js ./src --plugins add-module-exports --out-dir ./lib;",
@@ -96,5 +96,5 @@
     "lint": "eslint --fix ./src/**",
     "test": "./node_modules/karma/bin/karma start test/karma.conf.js"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
