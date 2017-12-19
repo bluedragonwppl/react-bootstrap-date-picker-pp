@@ -1,6 +1,6 @@
 {
   "_from": "react-bootstrap-date-picker-pp",
-  "_id": "react-bootstrap-date-picker@5.1.0",
+  "_id": "react-bootstrap-date-picker-pp@5.1.0",
   "_inBundle": false,
   "_integrity": "sha1-X4fGqHXkEdv0bSvnSWB1bxE+vyM=",
   "_location": "/react-bootstrap-date-picker-pp",
@@ -96,5 +96,5 @@
     "lint": "eslint --fix ./src/**",
     "test": "./node_modules/karma/bin/karma start test/karma.conf.js"
   },
-  "version": "1.0.2"
+  "version": "2.0.0"
 }
